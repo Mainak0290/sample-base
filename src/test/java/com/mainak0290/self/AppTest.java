@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( App.sum(2,1)==2 );
+        assertTrue( App.sum(2,1)==3 );
     }
 }
